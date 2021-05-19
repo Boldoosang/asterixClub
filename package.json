@@ -1,0 +1,20 @@
+{
+  "name": "asterixclub",
+  "version": "1.0.0",
+  "description": "A forum for just about anything.",
+  "main": "main.py",
+  "scripts": {
+    "serve": "python manage.py serve",
+    "initDB" : "python manage.py initDB"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boldoosang/asterixClub.git"
+  },
+  "author": "Justin Baldeosingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boldoosang/asterixClub/issues"
+  },
+  "homepage": "https://github.com/Boldoosang/asterixClub#readme"
+}
